@@ -1,7 +1,6 @@
 import asyncio
 import json
-import motor.motor_asyncio
-from utils import custom_handler, write_msg, read_msg
+from utils import *
 
 insert_queue = asyncio.Queue()
 
@@ -41,29 +40,6 @@ async def forward(reader, writer, direction):
     print(f"forwarding stopped: {direction} ")
 
 
-async def insert():
-    print("insert task started")
-    client = motor.motor_asyncio.AsyncIOMotorClient("mongodb://10.198.141.141:27017")
-    lime_db = client.lime
-    messages = lime_db.messages
-
-    while True:
-        records_list = []
-        print("waiting for record to insert")
-        insert_record = await insert_queue.get()
-        records_list.append(insert_record)
-
-        while True:
-            try:
-                records_list.append(insert_queue.get_nowait())
-            except asyncio.QueueEmpty:
-                print(f"{len(records_list)} records retrived from queue")
-                break
-
-        await messages.insert_many(records_list)
-        print(f"{len(records_list)} records inserted")
-
-
 async def conn_handler(in_reader, in_writer):
 
     addr = in_writer.get_extra_info('peername')
@@ -79,10 +55,6 @@ async def conn_handler(in_reader, in_writer):
 
 
 async def start_server():
-    asyncio.get_running_loop().set_exception_handler(custom_handler)
-
-    asyncio.create_task(insert())
-
     server = await asyncio.start_server(conn_handler, in_ip, in_port)
 
     print(f'Serving on {server.sockets[0].getsockname()}')
