@@ -1,8 +1,8 @@
 import asyncio
-import json
 from utils import *
 
-insert_queue = asyncio.Queue()
+
+# q = asyncio.Queue()
 
 in_ip = "0.0.0.0"
 in_port = 11111
@@ -20,15 +20,15 @@ async def forward(reader, writer, direction):
                 print(f"forward {direction}: connection closed (EOF)")
                 break
         except ConnectionError:
-            print(f"ConnectionResetError occured on reader {direction}")
+            print(f"ConnectionResetError occurred on reader {direction}")
             break
 
-        await insert_queue.put(json.loads(msg))
+        # q.put_nowait(json.loads(msg))
 
         try:
             await write_msg(writer, msg)
         except ConnectionError:
-            print(f"ConnectionAbortedError occured on writer {direction}")
+            print(f"ConnectionAbortedError occurred on writer {direction}")
             break
 
     writer.close()
@@ -41,9 +41,9 @@ async def forward(reader, writer, direction):
 
 
 async def conn_handler(in_reader, in_writer):
-
     addr = in_writer.get_extra_info('peername')
     print(f"{addr} connected..trying to establish forwarding")
+
     out_reader, out_writer = await asyncio.open_connection(out_ip, out_port)
     print(f" {in_ip}, {in_port} forwarded to {out_ip}, {out_port}")
 
@@ -54,15 +54,36 @@ async def conn_handler(in_reader, in_writer):
     await task_out_in
 
 
+# async def read_queue():
+#     while True:
+#         msgs_to_insert = []
+#
+#         msgs_to_insert.append(await q.get())
+#         while True:
+#             try:
+#                 msgs_to_insert.append(q.get_nowait())
+#             except asyncio.QueueEmpty:
+#                 break
+#
+#         print(f"writing {len(msgs_to_insert)} msgs to DB ")
+#         await asyncio.sleep(1) #mocking the db write
+
+
 async def start_server():
+
     server = await asyncio.start_server(conn_handler, in_ip, in_port)
 
     print(f'Serving on {server.sockets[0].getsockname()}')
 
+    # read_task = asyncio.create_task(read_queue())
+
     async with server:
         await server.serve_forever()
 
-try:
-    asyncio.run(start_server())
-except KeyboardInterrupt:
-    print("Keyboard interrupt occurred")
+    # await read_task
+
+if __name__ == '__main__':
+    try:
+        asyncio.run(start_server())
+    except KeyboardInterrupt:
+        print("Keyboard interrupt occurred")
