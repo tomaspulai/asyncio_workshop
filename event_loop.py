@@ -23,6 +23,14 @@ def hog():
     return sum
 
 
+async def keep_printing(name=""):
+    while True:
+        print(name, end=" ")
+        print_now()
+        await asyncio.sleep(0.5)
+
+
+
 loop = asyncio.get_event_loop()
 
 loop.call_soon(trampoline, "One")

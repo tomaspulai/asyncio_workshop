@@ -1,13 +1,13 @@
 import asyncio
 import json
 
-
 from utils import *
 
-import time
+ip = "localhost"
+port = 11111
 
-# TPS = 1
-# delay = 1/TPS
+TPS = 100
+delay = 1/TPS
 
 
 async def send_msgs_loop(writer):
@@ -15,7 +15,7 @@ async def send_msgs_loop(writer):
         msgs = json.load(f)
 
         for msg in msgs:
-            # await asyncio.sleep(delay)
+            await asyncio.sleep(delay)
             msg = json.dumps(msg)
             try:
                 await write_msg(writer, msg)
@@ -28,24 +28,26 @@ async def send_msgs_loop(writer):
 
 # async def read_msgs_loop(reader, end_signal):
 #
-#     while not end_signal.is_set():
-#         try:
-#             msg = await asyncio.wait_for(read_msg(reader), timeout=5.0)
-#         except asyncio.TimeoutError:
-#             continue
+#     # while not end_signal.is_set():
+#     while True:
+#         msg = await read_msg(reader)
+#         # try:
+#         #     msg = await asyncio.wait_for(read_msg(reader), timeout=5.0)
+#         # except asyncio.TimeoutError:
+#         #    continue
 #
 #         if msg is None:
 #             break
 #
 #         text_color = TermColors.GREEN
-#         if json.loads(msg)["result"] == "APPROVE":
+#         if json.loads(msg)["result"] != "APPROVE":
 #             text_color = TermColors.RED
 #
 #         print(f"{text_color}rcvd: {msg}{TermColors.ENDC}")
 
 
 async def start_client():
-    reader, writer = await asyncio.open_connection("localhost", 11111)
+    reader, writer = await asyncio.open_connection(ip, port)
 
     # end_signal = asyncio.Event()
 

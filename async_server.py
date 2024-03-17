@@ -1,12 +1,15 @@
 import asyncio
-# import json
-# import random
+import json
+import random
 
 from utils import *
 
+ip = "0.0.0.0"
+port = 11112
 
-# TPS_LOW = 10
-# TPS_HIGH = 20
+#
+# TPS_LOW = 100
+# TPS_HIGH = 200
 #
 # low_delay = 1/TPS_LOW
 # high_delay = 1/TPS_HIGH
@@ -25,18 +28,19 @@ async def conn_handler(reader, writer):
                 print("conn_handler: connection closed (EOF)")
                 break
 
-            # msg = json.loads(msg)
+            msg = json.loads(msg)
             print(f"received: {msg}")
 
             # msg["result"] = random.choice(["APPROVE", "DECLINE"])
-            #msg = json.dumps(msg)
-
-            # await write_msg(writer, msg)
 
             # text_color = TermColors.GREEN
-            # if json_msg["result"] == "APPROVE":
+            # if msg["result"] != "APPROVE":
             #     text_color = TermColors.RED
-            # print(f":{text_color}{json_msg['result']}{TermColors.ENDC}")
+            # print(f"{text_color}{msg['result']}{TermColors.ENDC}")
+            #
+            # msg = json.dumps(msg)
+            #
+            # await write_msg(writer, msg)
 
         except ConnectionError:
             break
@@ -46,7 +50,7 @@ async def conn_handler(reader, writer):
 
 async def start_server():
     #asyncio.get_running_loop().set_exception_handler(custom_handler)
-    server = await asyncio.start_server(conn_handler, "0.0.0.0", 11111)
+    server = await asyncio.start_server(conn_handler, ip, port)
 
     print(f'Serving on {server.sockets[0].getsockname()}')
 
