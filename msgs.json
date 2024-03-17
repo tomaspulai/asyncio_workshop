@@ -1,504 +1,3002 @@
 [
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-         {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-         {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"},
-        {"amount": 25, "card": "5555555552", "terminal": "CDE"},
-        {"amount": 30, "card": "4444444442", "terminal": "EFG"},
-        {"amount": 10, "card": "1213212312", "terminal": "ABC"}
-
-
-
+  {
+    "amt": 494,
+    "crd": "5720801996963485",
+    "term": "T36797",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 727,
+    "crd": "3939668215195973",
+    "term": "T24668",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 429,
+    "crd": "5939804849805946",
+    "term": "T25004",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 473,
+    "crd": "4712379400617466",
+    "term": "T26050",
+    "brand": "VISA"
+  },
+  {
+    "amt": 353,
+    "crd": "3955350172462894",
+    "term": "T87128",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 942,
+    "crd": "4662721674112918",
+    "term": "T50360",
+    "brand": "VISA"
+  },
+  {
+    "amt": 797,
+    "crd": "5520000713857791",
+    "term": "T40384",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 203,
+    "crd": "3477160853983888",
+    "term": "T53989",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 980,
+    "crd": "4201490600262308",
+    "term": "T27149",
+    "brand": "VISA"
+  },
+  {
+    "amt": 181,
+    "crd": "3178215165612535",
+    "term": "T65616",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 764,
+    "crd": "5250290520886101",
+    "term": "T62755",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 591,
+    "crd": "3952490268220422",
+    "term": "T89923",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 638,
+    "crd": "5349090909906323",
+    "term": "T75815",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 848,
+    "crd": "4276207264183502",
+    "term": "T43166",
+    "brand": "VISA"
+  },
+  {
+    "amt": 484,
+    "crd": "3345334635714577",
+    "term": "T12447",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 945,
+    "crd": "4567886838841211",
+    "term": "T40624",
+    "brand": "VISA"
+  },
+  {
+    "amt": 247,
+    "crd": "3582956279340596",
+    "term": "T41892",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 191,
+    "crd": "5675134493633312",
+    "term": "T48316",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 658,
+    "crd": "3720539236181755",
+    "term": "T15261",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 994,
+    "crd": "3510127705026177",
+    "term": "T72351",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 388,
+    "crd": "3629487297571632",
+    "term": "T64882",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 454,
+    "crd": "5855002806968902",
+    "term": "T25032",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 483,
+    "crd": "3978871171709816",
+    "term": "T59642",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 463,
+    "crd": "4130956169775715",
+    "term": "T42878",
+    "brand": "VISA"
+  },
+  {
+    "amt": 505,
+    "crd": "3332124601536903",
+    "term": "T77463",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 206,
+    "crd": "4928517220473034",
+    "term": "T85136",
+    "brand": "VISA"
+  },
+  {
+    "amt": 477,
+    "crd": "3165068565947302",
+    "term": "T72904",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 121,
+    "crd": "4731536627011005",
+    "term": "T63629",
+    "brand": "VISA"
+  },
+  {
+    "amt": 547,
+    "crd": "3826350596683356",
+    "term": "T62820",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 315,
+    "crd": "5527384187796499",
+    "term": "T84115",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 539,
+    "crd": "5216760400432772",
+    "term": "T89885",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 292,
+    "crd": "5847061461623515",
+    "term": "T18016",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 847,
+    "crd": "4672725356233101",
+    "term": "T97644",
+    "brand": "VISA"
+  },
+  {
+    "amt": 378,
+    "crd": "4965245655208941",
+    "term": "T78725",
+    "brand": "VISA"
+  },
+  {
+    "amt": 229,
+    "crd": "3881070867212873",
+    "term": "T48466",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 130,
+    "crd": "4140860230115649",
+    "term": "T27813",
+    "brand": "VISA"
+  },
+  {
+    "amt": 396,
+    "crd": "5757188072563064",
+    "term": "T36835",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 812,
+    "crd": "4731537283696138",
+    "term": "T55376",
+    "brand": "VISA"
+  },
+  {
+    "amt": 846,
+    "crd": "3852024990964650",
+    "term": "T15586",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 897,
+    "crd": "4171180032773939",
+    "term": "T32804",
+    "brand": "VISA"
+  },
+  {
+    "amt": 591,
+    "crd": "4294740215460978",
+    "term": "T10924",
+    "brand": "VISA"
+  },
+  {
+    "amt": 207,
+    "crd": "5995357567035402",
+    "term": "T40971",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 888,
+    "crd": "4154724436598023",
+    "term": "T51127",
+    "brand": "VISA"
+  },
+  {
+    "amt": 843,
+    "crd": "4688897802457344",
+    "term": "T89731",
+    "brand": "VISA"
+  },
+  {
+    "amt": 545,
+    "crd": "3392409032173937",
+    "term": "T68216",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 297,
+    "crd": "5228760344418858",
+    "term": "T72984",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 214,
+    "crd": "4268719381979666",
+    "term": "T60091",
+    "brand": "VISA"
+  },
+  {
+    "amt": 383,
+    "crd": "5158190531522279",
+    "term": "T50709",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 383,
+    "crd": "5770246262564695",
+    "term": "T83120",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 988,
+    "crd": "4143994707497004",
+    "term": "T64490",
+    "brand": "VISA"
+  },
+  {
+    "amt": 665,
+    "crd": "4340093729246158",
+    "term": "T83678",
+    "brand": "VISA"
+  },
+  {
+    "amt": 836,
+    "crd": "3539743465600932",
+    "term": "T41702",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 438,
+    "crd": "5446292555298784",
+    "term": "T53995",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 378,
+    "crd": "5275286519932961",
+    "term": "T67670",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 519,
+    "crd": "5321477457671953",
+    "term": "T78224",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 580,
+    "crd": "4789745520214182",
+    "term": "T27063",
+    "brand": "VISA"
+  },
+  {
+    "amt": 534,
+    "crd": "5434499259794642",
+    "term": "T59856",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 726,
+    "crd": "3316548731165772",
+    "term": "T71374",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 548,
+    "crd": "4363316273680458",
+    "term": "T48350",
+    "brand": "VISA"
+  },
+  {
+    "amt": 307,
+    "crd": "3822931333180895",
+    "term": "T66326",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 819,
+    "crd": "3160476860436227",
+    "term": "T50594",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 937,
+    "crd": "3142943816250799",
+    "term": "T44923",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 687,
+    "crd": "3199110796722913",
+    "term": "T55505",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 484,
+    "crd": "5309535058388537",
+    "term": "T72325",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 135,
+    "crd": "5767649940084351",
+    "term": "T76914",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 536,
+    "crd": "3988454122832863",
+    "term": "T94706",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 198,
+    "crd": "4263389548924874",
+    "term": "T41618",
+    "brand": "VISA"
+  },
+  {
+    "amt": 996,
+    "crd": "4126572273076738",
+    "term": "T12644",
+    "brand": "VISA"
+  },
+  {
+    "amt": 889,
+    "crd": "5767904187345062",
+    "term": "T53856",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 610,
+    "crd": "3675230534811415",
+    "term": "T40266",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 645,
+    "crd": "3274810437295342",
+    "term": "T60246",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 161,
+    "crd": "3888687378900888",
+    "term": "T44884",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 562,
+    "crd": "5718721328318947",
+    "term": "T82726",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 325,
+    "crd": "3749227956063255",
+    "term": "T66980",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 792,
+    "crd": "3564194318576399",
+    "term": "T65517",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 605,
+    "crd": "4227621282506286",
+    "term": "T53987",
+    "brand": "VISA"
+  },
+  {
+    "amt": 298,
+    "crd": "4228328511049145",
+    "term": "T77963",
+    "brand": "VISA"
+  },
+  {
+    "amt": 354,
+    "crd": "4492577119697009",
+    "term": "T95786",
+    "brand": "VISA"
+  },
+  {
+    "amt": 407,
+    "crd": "3407827048256902",
+    "term": "T78631",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 251,
+    "crd": "5934461689762174",
+    "term": "T75948",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 370,
+    "crd": "4587224073492232",
+    "term": "T77629",
+    "brand": "VISA"
+  },
+  {
+    "amt": 290,
+    "crd": "4123250220225506",
+    "term": "T87396",
+    "brand": "VISA"
+  },
+  {
+    "amt": 255,
+    "crd": "4398274190652911",
+    "term": "T20517",
+    "brand": "VISA"
+  },
+  {
+    "amt": 534,
+    "crd": "3955547909560926",
+    "term": "T16526",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 220,
+    "crd": "3314266339042497",
+    "term": "T61973",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 742,
+    "crd": "5935406293758720",
+    "term": "T94353",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 189,
+    "crd": "4817121657776615",
+    "term": "T38403",
+    "brand": "VISA"
+  },
+  {
+    "amt": 361,
+    "crd": "4245155778366151",
+    "term": "T89170",
+    "brand": "VISA"
+  },
+  {
+    "amt": 342,
+    "crd": "3819065854320671",
+    "term": "T63170",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 306,
+    "crd": "3541466997341897",
+    "term": "T16153",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 954,
+    "crd": "3784224247870646",
+    "term": "T42372",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 596,
+    "crd": "5122326848564720",
+    "term": "T92612",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 690,
+    "crd": "4823465150218528",
+    "term": "T55798",
+    "brand": "VISA"
+  },
+  {
+    "amt": 574,
+    "crd": "5290093220807381",
+    "term": "T68714",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 248,
+    "crd": "3844768924693757",
+    "term": "T97293",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 674,
+    "crd": "4631032919139748",
+    "term": "T96014",
+    "brand": "VISA"
+  },
+  {
+    "amt": 273,
+    "crd": "4871950125051500",
+    "term": "T62589",
+    "brand": "VISA"
+  },
+  {
+    "amt": 384,
+    "crd": "3599835250026248",
+    "term": "T98716",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 310,
+    "crd": "3307798160657971",
+    "term": "T98964",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 506,
+    "crd": "3857011986882361",
+    "term": "T24230",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 201,
+    "crd": "5553383885578334",
+    "term": "T75704",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 342,
+    "crd": "5992474886584660",
+    "term": "T20197",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 947,
+    "crd": "4825572835763495",
+    "term": "T55857",
+    "brand": "VISA"
+  },
+  {
+    "amt": 752,
+    "crd": "3887182425136665",
+    "term": "T92487",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 521,
+    "crd": "4174210800087457",
+    "term": "T78095",
+    "brand": "VISA"
+  },
+  {
+    "amt": 689,
+    "crd": "3221060739745849",
+    "term": "T21469",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 528,
+    "crd": "4628123953312485",
+    "term": "T47146",
+    "brand": "VISA"
+  },
+  {
+    "amt": 852,
+    "crd": "5647721311479808",
+    "term": "T79652",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 883,
+    "crd": "3853102991768580",
+    "term": "T47702",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 269,
+    "crd": "3824146314952350",
+    "term": "T10615",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 648,
+    "crd": "3867848655310702",
+    "term": "T85890",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 489,
+    "crd": "4770485169023767",
+    "term": "T83150",
+    "brand": "VISA"
+  },
+  {
+    "amt": 800,
+    "crd": "3626039199625276",
+    "term": "T54304",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 167,
+    "crd": "5957275576638515",
+    "term": "T15075",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 373,
+    "crd": "3118142085071636",
+    "term": "T26496",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 330,
+    "crd": "3885348787272425",
+    "term": "T38561",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 444,
+    "crd": "5898387150448224",
+    "term": "T12382",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 103,
+    "crd": "3457802068390190",
+    "term": "T88708",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 665,
+    "crd": "3913814972476669",
+    "term": "T19387",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 606,
+    "crd": "5660905217061192",
+    "term": "T14035",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 835,
+    "crd": "5906129593592292",
+    "term": "T55903",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 359,
+    "crd": "4430499089385968",
+    "term": "T94144",
+    "brand": "VISA"
+  },
+  {
+    "amt": 887,
+    "crd": "5496989340628417",
+    "term": "T64956",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 621,
+    "crd": "5713776965440332",
+    "term": "T60311",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 385,
+    "crd": "5444387477750661",
+    "term": "T69535",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 254,
+    "crd": "3811666617368431",
+    "term": "T24906",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 741,
+    "crd": "4246364482718626",
+    "term": "T88896",
+    "brand": "VISA"
+  },
+  {
+    "amt": 530,
+    "crd": "3515975213009271",
+    "term": "T14523",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 605,
+    "crd": "3636463131415747",
+    "term": "T63747",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 979,
+    "crd": "5574754865701863",
+    "term": "T25490",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 981,
+    "crd": "5471896154343484",
+    "term": "T37951",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 607,
+    "crd": "4919595030646138",
+    "term": "T99785",
+    "brand": "VISA"
+  },
+  {
+    "amt": 909,
+    "crd": "4507063265499665",
+    "term": "T76556",
+    "brand": "VISA"
+  },
+  {
+    "amt": 935,
+    "crd": "4851667845680564",
+    "term": "T62468",
+    "brand": "VISA"
+  },
+  {
+    "amt": 618,
+    "crd": "4227550173573594",
+    "term": "T49907",
+    "brand": "VISA"
+  },
+  {
+    "amt": 352,
+    "crd": "3261646740688639",
+    "term": "T13333",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 919,
+    "crd": "3530716020365983",
+    "term": "T69614",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 424,
+    "crd": "3611710592539993",
+    "term": "T69796",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 708,
+    "crd": "3533791900908666",
+    "term": "T15493",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 593,
+    "crd": "3308023405897389",
+    "term": "T31712",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 274,
+    "crd": "5595783109643782",
+    "term": "T80693",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 940,
+    "crd": "5512102414753379",
+    "term": "T79867",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 317,
+    "crd": "4893586121009876",
+    "term": "T63789",
+    "brand": "VISA"
+  },
+  {
+    "amt": 759,
+    "crd": "5811136468879474",
+    "term": "T49104",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 694,
+    "crd": "4307922316335702",
+    "term": "T29889",
+    "brand": "VISA"
+  },
+  {
+    "amt": 596,
+    "crd": "5909416388856010",
+    "term": "T67071",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 386,
+    "crd": "4321781906909309",
+    "term": "T18226",
+    "brand": "VISA"
+  },
+  {
+    "amt": 285,
+    "crd": "5675844210639492",
+    "term": "T51470",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 870,
+    "crd": "5780053958098674",
+    "term": "T99612",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 823,
+    "crd": "3183671075640931",
+    "term": "T15654",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 925,
+    "crd": "3594018518466176",
+    "term": "T15910",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 937,
+    "crd": "4421529547661561",
+    "term": "T82197",
+    "brand": "VISA"
+  },
+  {
+    "amt": 961,
+    "crd": "5853877981572901",
+    "term": "T42254",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 405,
+    "crd": "5729160557070379",
+    "term": "T90951",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 192,
+    "crd": "3637684668070022",
+    "term": "T92822",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 671,
+    "crd": "5412755968217597",
+    "term": "T29583",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 299,
+    "crd": "3993758569983474",
+    "term": "T46825",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 608,
+    "crd": "3463143602165692",
+    "term": "T36538",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 613,
+    "crd": "5596589614992210",
+    "term": "T86286",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 384,
+    "crd": "3519346697558837",
+    "term": "T49560",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 352,
+    "crd": "5150360351368426",
+    "term": "T32658",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 548,
+    "crd": "3506272276193727",
+    "term": "T27012",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 721,
+    "crd": "3339983503696738",
+    "term": "T92109",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 769,
+    "crd": "5945505795006173",
+    "term": "T39551",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 678,
+    "crd": "4608303821908085",
+    "term": "T88318",
+    "brand": "VISA"
+  },
+  {
+    "amt": 200,
+    "crd": "3920721163257848",
+    "term": "T22515",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 768,
+    "crd": "5513321000582832",
+    "term": "T10690",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 793,
+    "crd": "4491466392817290",
+    "term": "T74575",
+    "brand": "VISA"
+  },
+  {
+    "amt": 291,
+    "crd": "4372146687994298",
+    "term": "T76927",
+    "brand": "VISA"
+  },
+  {
+    "amt": 518,
+    "crd": "3224429992024428",
+    "term": "T45596",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 452,
+    "crd": "3841076355634049",
+    "term": "T38284",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 539,
+    "crd": "3462514640953816",
+    "term": "T70450",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 369,
+    "crd": "5189600939086457",
+    "term": "T99012",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 167,
+    "crd": "5327149968151700",
+    "term": "T87718",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 764,
+    "crd": "5607047213578018",
+    "term": "T96488",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 886,
+    "crd": "5147079796297386",
+    "term": "T96452",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 248,
+    "crd": "5221452312753744",
+    "term": "T99198",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 814,
+    "crd": "3374217511259134",
+    "term": "T36468",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 804,
+    "crd": "5402137855898515",
+    "term": "T40624",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 615,
+    "crd": "5107827262819010",
+    "term": "T99955",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 274,
+    "crd": "4729148181844877",
+    "term": "T25380",
+    "brand": "VISA"
+  },
+  {
+    "amt": 772,
+    "crd": "3437059934054147",
+    "term": "T33967",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 608,
+    "crd": "3491295052926463",
+    "term": "T49789",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 619,
+    "crd": "3540840676622242",
+    "term": "T58984",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 127,
+    "crd": "3721005889530723",
+    "term": "T96003",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 953,
+    "crd": "3662075263376870",
+    "term": "T65366",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 879,
+    "crd": "3484840963799798",
+    "term": "T47200",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 453,
+    "crd": "5545490658834628",
+    "term": "T65636",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 868,
+    "crd": "4484363826881123",
+    "term": "T13086",
+    "brand": "VISA"
+  },
+  {
+    "amt": 868,
+    "crd": "5619196679904297",
+    "term": "T26697",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 857,
+    "crd": "3433741517607342",
+    "term": "T31505",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 474,
+    "crd": "5819277810576188",
+    "term": "T73305",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 856,
+    "crd": "4235483533091179",
+    "term": "T45697",
+    "brand": "VISA"
+  },
+  {
+    "amt": 609,
+    "crd": "4700846016298614",
+    "term": "T54891",
+    "brand": "VISA"
+  },
+  {
+    "amt": 236,
+    "crd": "5222798104086964",
+    "term": "T54416",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 780,
+    "crd": "4905961362745887",
+    "term": "T26196",
+    "brand": "VISA"
+  },
+  {
+    "amt": 598,
+    "crd": "3315691816141038",
+    "term": "T79815",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 501,
+    "crd": "5369934341874788",
+    "term": "T51347",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 320,
+    "crd": "5335309808870864",
+    "term": "T96603",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 568,
+    "crd": "4259517812629245",
+    "term": "T67950",
+    "brand": "VISA"
+  },
+  {
+    "amt": 249,
+    "crd": "4284385829026317",
+    "term": "T83006",
+    "brand": "VISA"
+  },
+  {
+    "amt": 680,
+    "crd": "5442514368822266",
+    "term": "T88423",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 746,
+    "crd": "4780676062647496",
+    "term": "T67006",
+    "brand": "VISA"
+  },
+  {
+    "amt": 111,
+    "crd": "4508697582534369",
+    "term": "T11862",
+    "brand": "VISA"
+  },
+  {
+    "amt": 794,
+    "crd": "3649659643879727",
+    "term": "T95771",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 625,
+    "crd": "4881733729308509",
+    "term": "T20578",
+    "brand": "VISA"
+  },
+  {
+    "amt": 337,
+    "crd": "4762964284361206",
+    "term": "T32450",
+    "brand": "VISA"
+  },
+  {
+    "amt": 972,
+    "crd": "4105219114305769",
+    "term": "T45906",
+    "brand": "VISA"
+  },
+  {
+    "amt": 735,
+    "crd": "3815808588465449",
+    "term": "T90939",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 256,
+    "crd": "4815829586552298",
+    "term": "T72270",
+    "brand": "VISA"
+  },
+  {
+    "amt": 503,
+    "crd": "4984044713325312",
+    "term": "T13493",
+    "brand": "VISA"
+  },
+  {
+    "amt": 246,
+    "crd": "3406615561772302",
+    "term": "T64461",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 660,
+    "crd": "4849125510951565",
+    "term": "T83841",
+    "brand": "VISA"
+  },
+  {
+    "amt": 475,
+    "crd": "5979911351586617",
+    "term": "T58053",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 957,
+    "crd": "3735403413630895",
+    "term": "T60079",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 540,
+    "crd": "4723594357088694",
+    "term": "T21140",
+    "brand": "VISA"
+  },
+  {
+    "amt": 762,
+    "crd": "4429105095551031",
+    "term": "T50541",
+    "brand": "VISA"
+  },
+  {
+    "amt": 737,
+    "crd": "3232998947918344",
+    "term": "T44079",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 960,
+    "crd": "4496142012878136",
+    "term": "T15496",
+    "brand": "VISA"
+  },
+  {
+    "amt": 680,
+    "crd": "4359296740444788",
+    "term": "T10268",
+    "brand": "VISA"
+  },
+  {
+    "amt": 349,
+    "crd": "4394306134592810",
+    "term": "T26122",
+    "brand": "VISA"
+  },
+  {
+    "amt": 893,
+    "crd": "5793899555431715",
+    "term": "T35902",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 596,
+    "crd": "5753353739267482",
+    "term": "T39707",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 232,
+    "crd": "5141646357413817",
+    "term": "T30759",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 704,
+    "crd": "3785825304512972",
+    "term": "T83604",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 526,
+    "crd": "4738950335289053",
+    "term": "T59485",
+    "brand": "VISA"
+  },
+  {
+    "amt": 148,
+    "crd": "4464920437961221",
+    "term": "T87583",
+    "brand": "VISA"
+  },
+  {
+    "amt": 831,
+    "crd": "4111465703113628",
+    "term": "T28464",
+    "brand": "VISA"
+  },
+  {
+    "amt": 204,
+    "crd": "4673715266991310",
+    "term": "T29305",
+    "brand": "VISA"
+  },
+  {
+    "amt": 868,
+    "crd": "5833368841362613",
+    "term": "T26659",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 628,
+    "crd": "5700862570001873",
+    "term": "T13355",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 787,
+    "crd": "3372198092400140",
+    "term": "T42120",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 222,
+    "crd": "4319271988116241",
+    "term": "T95075",
+    "brand": "VISA"
+  },
+  {
+    "amt": 230,
+    "crd": "3623984325945710",
+    "term": "T91099",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 419,
+    "crd": "5203181919168154",
+    "term": "T69396",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 483,
+    "crd": "5603297406971958",
+    "term": "T10428",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 423,
+    "crd": "3592342669859386",
+    "term": "T92720",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 693,
+    "crd": "3366148171441573",
+    "term": "T99172",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 231,
+    "crd": "4155708136728656",
+    "term": "T56892",
+    "brand": "VISA"
+  },
+  {
+    "amt": 726,
+    "crd": "4277092754250296",
+    "term": "T77165",
+    "brand": "VISA"
+  },
+  {
+    "amt": 349,
+    "crd": "3940104346813620",
+    "term": "T88946",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 311,
+    "crd": "3428907516265828",
+    "term": "T43927",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 250,
+    "crd": "4108365114177158",
+    "term": "T20393",
+    "brand": "VISA"
+  },
+  {
+    "amt": 972,
+    "crd": "5898041522524325",
+    "term": "T72059",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 366,
+    "crd": "3723131431203777",
+    "term": "T73789",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 671,
+    "crd": "3916871865542074",
+    "term": "T45592",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 311,
+    "crd": "5714968015633192",
+    "term": "T78996",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 284,
+    "crd": "5562575058422582",
+    "term": "T39905",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 425,
+    "crd": "4285067362296930",
+    "term": "T58395",
+    "brand": "VISA"
+  },
+  {
+    "amt": 453,
+    "crd": "4195189847471059",
+    "term": "T94393",
+    "brand": "VISA"
+  },
+  {
+    "amt": 791,
+    "crd": "5643425341278507",
+    "term": "T81042",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 925,
+    "crd": "3197910824454125",
+    "term": "T44706",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 600,
+    "crd": "3280649196185382",
+    "term": "T39287",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 794,
+    "crd": "5223443754939876",
+    "term": "T46828",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 858,
+    "crd": "5575229481992023",
+    "term": "T75929",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 841,
+    "crd": "4916552087600144",
+    "term": "T57307",
+    "brand": "VISA"
+  },
+  {
+    "amt": 610,
+    "crd": "4319214952107641",
+    "term": "T62294",
+    "brand": "VISA"
+  },
+  {
+    "amt": 299,
+    "crd": "5574874870226358",
+    "term": "T88837",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 662,
+    "crd": "4209866459243061",
+    "term": "T43846",
+    "brand": "VISA"
+  },
+  {
+    "amt": 519,
+    "crd": "4841815299151344",
+    "term": "T79974",
+    "brand": "VISA"
+  },
+  {
+    "amt": 556,
+    "crd": "3897988017200357",
+    "term": "T22049",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 684,
+    "crd": "5519249934349365",
+    "term": "T78393",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 928,
+    "crd": "4310054316229897",
+    "term": "T76708",
+    "brand": "VISA"
+  },
+  {
+    "amt": 408,
+    "crd": "4260695284472435",
+    "term": "T21542",
+    "brand": "VISA"
+  },
+  {
+    "amt": 425,
+    "crd": "3951504976480338",
+    "term": "T29746",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 304,
+    "crd": "5987559193692064",
+    "term": "T39571",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 851,
+    "crd": "5444196920080385",
+    "term": "T19857",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 165,
+    "crd": "5424583091092954",
+    "term": "T48034",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 590,
+    "crd": "5537193587238925",
+    "term": "T33330",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 840,
+    "crd": "5825902541078374",
+    "term": "T30341",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 272,
+    "crd": "5223204745395305",
+    "term": "T33656",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 620,
+    "crd": "5895249436104993",
+    "term": "T19868",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 244,
+    "crd": "4410809688204043",
+    "term": "T67268",
+    "brand": "VISA"
+  },
+  {
+    "amt": 933,
+    "crd": "5819882113311868",
+    "term": "T30731",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 708,
+    "crd": "5599834895036492",
+    "term": "T22016",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 430,
+    "crd": "5707699168685609",
+    "term": "T92248",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 816,
+    "crd": "3719036292555746",
+    "term": "T17358",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 730,
+    "crd": "4245792310357530",
+    "term": "T74864",
+    "brand": "VISA"
+  },
+  {
+    "amt": 268,
+    "crd": "4565761379534898",
+    "term": "T11642",
+    "brand": "VISA"
+  },
+  {
+    "amt": 501,
+    "crd": "5350997741836126",
+    "term": "T26324",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 636,
+    "crd": "3438072634418780",
+    "term": "T65726",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 333,
+    "crd": "3746677444834199",
+    "term": "T52138",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 979,
+    "crd": "5534634170605107",
+    "term": "T89489",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 899,
+    "crd": "4253301142144952",
+    "term": "T13639",
+    "brand": "VISA"
+  },
+  {
+    "amt": 758,
+    "crd": "3921623739112176",
+    "term": "T45476",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 279,
+    "crd": "4466954209916572",
+    "term": "T17381",
+    "brand": "VISA"
+  },
+  {
+    "amt": 701,
+    "crd": "4535135542452947",
+    "term": "T90829",
+    "brand": "VISA"
+  },
+  {
+    "amt": 765,
+    "crd": "5165103075722599",
+    "term": "T45005",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 746,
+    "crd": "5145981095863044",
+    "term": "T12064",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 616,
+    "crd": "3685748174565797",
+    "term": "T57271",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 304,
+    "crd": "4778441166608755",
+    "term": "T83183",
+    "brand": "VISA"
+  },
+  {
+    "amt": 753,
+    "crd": "4775367901799720",
+    "term": "T52436",
+    "brand": "VISA"
+  },
+  {
+    "amt": 251,
+    "crd": "4867217949986495",
+    "term": "T44813",
+    "brand": "VISA"
+  },
+  {
+    "amt": 262,
+    "crd": "5936443994670930",
+    "term": "T86478",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 348,
+    "crd": "4798880237415400",
+    "term": "T34860",
+    "brand": "VISA"
+  },
+  {
+    "amt": 703,
+    "crd": "5937844767671831",
+    "term": "T92066",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 730,
+    "crd": "3231109089292352",
+    "term": "T38127",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 595,
+    "crd": "5188191315126726",
+    "term": "T68658",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 397,
+    "crd": "5356944720024355",
+    "term": "T45622",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 921,
+    "crd": "4860878185793111",
+    "term": "T95075",
+    "brand": "VISA"
+  },
+  {
+    "amt": 547,
+    "crd": "4828508522867940",
+    "term": "T31079",
+    "brand": "VISA"
+  },
+  {
+    "amt": 515,
+    "crd": "3431413501788101",
+    "term": "T12681",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 268,
+    "crd": "3433106264286530",
+    "term": "T27254",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 108,
+    "crd": "4832101086432799",
+    "term": "T56979",
+    "brand": "VISA"
+  },
+  {
+    "amt": 689,
+    "crd": "3873915366264660",
+    "term": "T16849",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 177,
+    "crd": "5897488284679775",
+    "term": "T71718",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 205,
+    "crd": "4397110307518483",
+    "term": "T39344",
+    "brand": "VISA"
+  },
+  {
+    "amt": 184,
+    "crd": "3581243603307041",
+    "term": "T18309",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 381,
+    "crd": "4170028416708857",
+    "term": "T46835",
+    "brand": "VISA"
+  },
+  {
+    "amt": 434,
+    "crd": "4701150330698760",
+    "term": "T58134",
+    "brand": "VISA"
+  },
+  {
+    "amt": 168,
+    "crd": "4722592992234394",
+    "term": "T15074",
+    "brand": "VISA"
+  },
+  {
+    "amt": 866,
+    "crd": "3169217791852874",
+    "term": "T94797",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 737,
+    "crd": "3994286893670461",
+    "term": "T58318",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 314,
+    "crd": "4505977831380203",
+    "term": "T77152",
+    "brand": "VISA"
+  },
+  {
+    "amt": 979,
+    "crd": "3191005216277924",
+    "term": "T89811",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 662,
+    "crd": "4283561427270224",
+    "term": "T41973",
+    "brand": "VISA"
+  },
+  {
+    "amt": 495,
+    "crd": "4131587171003505",
+    "term": "T77475",
+    "brand": "VISA"
+  },
+  {
+    "amt": 647,
+    "crd": "5300687951232428",
+    "term": "T52219",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 973,
+    "crd": "5699007943312145",
+    "term": "T39456",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 272,
+    "crd": "4426766346599380",
+    "term": "T22382",
+    "brand": "VISA"
+  },
+  {
+    "amt": 517,
+    "crd": "3859389007521643",
+    "term": "T68200",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 749,
+    "crd": "4445933815358030",
+    "term": "T15140",
+    "brand": "VISA"
+  },
+  {
+    "amt": 568,
+    "crd": "5868103656369304",
+    "term": "T70269",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 336,
+    "crd": "5716366163805838",
+    "term": "T33285",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 684,
+    "crd": "5742955541662255",
+    "term": "T20380",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 409,
+    "crd": "4254917167038270",
+    "term": "T86932",
+    "brand": "VISA"
+  },
+  {
+    "amt": 871,
+    "crd": "4101104626432663",
+    "term": "T51559",
+    "brand": "VISA"
+  },
+  {
+    "amt": 837,
+    "crd": "5910442578396196",
+    "term": "T35420",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 926,
+    "crd": "3567006651089877",
+    "term": "T83263",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 218,
+    "crd": "3768091012752523",
+    "term": "T69150",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 977,
+    "crd": "4502585354717071",
+    "term": "T24295",
+    "brand": "VISA"
+  },
+  {
+    "amt": 848,
+    "crd": "4506754684063082",
+    "term": "T22185",
+    "brand": "VISA"
+  },
+  {
+    "amt": 550,
+    "crd": "5749838815916341",
+    "term": "T55567",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 996,
+    "crd": "5815015528650315",
+    "term": "T83156",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 720,
+    "crd": "3487636643015652",
+    "term": "T39170",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 494,
+    "crd": "5116521676599207",
+    "term": "T98007",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 553,
+    "crd": "3362461309672790",
+    "term": "T56982",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 380,
+    "crd": "3690416460919763",
+    "term": "T50532",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 776,
+    "crd": "5435742392366209",
+    "term": "T30365",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 581,
+    "crd": "5975801113103715",
+    "term": "T93742",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 641,
+    "crd": "5818426054435616",
+    "term": "T60315",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 423,
+    "crd": "4792119942173982",
+    "term": "T40118",
+    "brand": "VISA"
+  },
+  {
+    "amt": 975,
+    "crd": "3395153780414896",
+    "term": "T39282",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 629,
+    "crd": "4803578920245657",
+    "term": "T89242",
+    "brand": "VISA"
+  },
+  {
+    "amt": 416,
+    "crd": "5912991989294734",
+    "term": "T94904",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 607,
+    "crd": "5451252469924867",
+    "term": "T98053",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 491,
+    "crd": "3297041083411000",
+    "term": "T63666",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 441,
+    "crd": "3995614683937755",
+    "term": "T59170",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 912,
+    "crd": "4683342201823126",
+    "term": "T64392",
+    "brand": "VISA"
+  },
+  {
+    "amt": 991,
+    "crd": "4148000107886470",
+    "term": "T16460",
+    "brand": "VISA"
+  },
+  {
+    "amt": 710,
+    "crd": "3695146190865023",
+    "term": "T62224",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 687,
+    "crd": "5848216903515252",
+    "term": "T63879",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 353,
+    "crd": "4222871412848349",
+    "term": "T36538",
+    "brand": "VISA"
+  },
+  {
+    "amt": 496,
+    "crd": "4405394990591006",
+    "term": "T96248",
+    "brand": "VISA"
+  },
+  {
+    "amt": 965,
+    "crd": "5719241357222446",
+    "term": "T26404",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 480,
+    "crd": "3859640759625550",
+    "term": "T38146",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 645,
+    "crd": "5502482630155661",
+    "term": "T66210",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 210,
+    "crd": "5943524874294691",
+    "term": "T38322",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 224,
+    "crd": "3860469837212193",
+    "term": "T72561",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 150,
+    "crd": "4428239091442910",
+    "term": "T51341",
+    "brand": "VISA"
+  },
+  {
+    "amt": 117,
+    "crd": "3323075991243115",
+    "term": "T71155",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 119,
+    "crd": "5560167489008332",
+    "term": "T14710",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 850,
+    "crd": "4913541123065720",
+    "term": "T18297",
+    "brand": "VISA"
+  },
+  {
+    "amt": 245,
+    "crd": "4328573722277172",
+    "term": "T47786",
+    "brand": "VISA"
+  },
+  {
+    "amt": 203,
+    "crd": "5382883315307621",
+    "term": "T47489",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 625,
+    "crd": "4154398231906003",
+    "term": "T31624",
+    "brand": "VISA"
+  },
+  {
+    "amt": 293,
+    "crd": "5512514944253394",
+    "term": "T35079",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 857,
+    "crd": "4577532163776454",
+    "term": "T28443",
+    "brand": "VISA"
+  },
+  {
+    "amt": 789,
+    "crd": "3850929002224465",
+    "term": "T77022",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 292,
+    "crd": "3281749952783225",
+    "term": "T99964",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 960,
+    "crd": "5465624453872121",
+    "term": "T19405",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 922,
+    "crd": "5635421363684177",
+    "term": "T96370",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 789,
+    "crd": "4214184789357334",
+    "term": "T49718",
+    "brand": "VISA"
+  },
+  {
+    "amt": 698,
+    "crd": "4568697262175397",
+    "term": "T50119",
+    "brand": "VISA"
+  },
+  {
+    "amt": 710,
+    "crd": "4874510066900576",
+    "term": "T92825",
+    "brand": "VISA"
+  },
+  {
+    "amt": 239,
+    "crd": "3388452311723451",
+    "term": "T10715",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 518,
+    "crd": "3305058302243019",
+    "term": "T94298",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 563,
+    "crd": "3756644191522404",
+    "term": "T95834",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 101,
+    "crd": "5601225383563405",
+    "term": "T73434",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 457,
+    "crd": "3944244543363899",
+    "term": "T59973",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 889,
+    "crd": "4829816653630733",
+    "term": "T36682",
+    "brand": "VISA"
+  },
+  {
+    "amt": 595,
+    "crd": "3504205555221107",
+    "term": "T63471",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 836,
+    "crd": "3297423687282716",
+    "term": "T19987",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 998,
+    "crd": "4879010602405652",
+    "term": "T69605",
+    "brand": "VISA"
+  },
+  {
+    "amt": 578,
+    "crd": "3110139320625620",
+    "term": "T49535",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 625,
+    "crd": "3226289811992710",
+    "term": "T45396",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 832,
+    "crd": "4645895082692812",
+    "term": "T92830",
+    "brand": "VISA"
+  },
+  {
+    "amt": 732,
+    "crd": "3364446953465826",
+    "term": "T26843",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 598,
+    "crd": "5572454026489243",
+    "term": "T63283",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 350,
+    "crd": "4379505938637258",
+    "term": "T39346",
+    "brand": "VISA"
+  },
+  {
+    "amt": 604,
+    "crd": "3682394355225937",
+    "term": "T59930",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 892,
+    "crd": "5323329784333768",
+    "term": "T31771",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 350,
+    "crd": "3458761481140032",
+    "term": "T87907",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 221,
+    "crd": "5253091522669451",
+    "term": "T57671",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 400,
+    "crd": "3804114586900738",
+    "term": "T93967",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 785,
+    "crd": "5828189725999677",
+    "term": "T71661",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 482,
+    "crd": "5443723112937110",
+    "term": "T91288",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 206,
+    "crd": "3125681897360110",
+    "term": "T35470",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 984,
+    "crd": "5423751880375229",
+    "term": "T40301",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 937,
+    "crd": "5828819724521505",
+    "term": "T26952",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 198,
+    "crd": "4998285813690670",
+    "term": "T90271",
+    "brand": "VISA"
+  },
+  {
+    "amt": 991,
+    "crd": "4238808808268024",
+    "term": "T62723",
+    "brand": "VISA"
+  },
+  {
+    "amt": 627,
+    "crd": "5984288102836670",
+    "term": "T52630",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 173,
+    "crd": "3119724992178886",
+    "term": "T35300",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 860,
+    "crd": "3359172922384874",
+    "term": "T74517",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 608,
+    "crd": "3285356740294607",
+    "term": "T85575",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 385,
+    "crd": "5400622160441765",
+    "term": "T46707",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 265,
+    "crd": "4448953307745032",
+    "term": "T15034",
+    "brand": "VISA"
+  },
+  {
+    "amt": 448,
+    "crd": "4774227847798797",
+    "term": "T50810",
+    "brand": "VISA"
+  },
+  {
+    "amt": 311,
+    "crd": "4519310405460673",
+    "term": "T17884",
+    "brand": "VISA"
+  },
+  {
+    "amt": 259,
+    "crd": "5355839535861270",
+    "term": "T79865",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 699,
+    "crd": "4475120984328500",
+    "term": "T49424",
+    "brand": "VISA"
+  },
+  {
+    "amt": 617,
+    "crd": "5651347205541365",
+    "term": "T39102",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 633,
+    "crd": "3106141396421048",
+    "term": "T23302",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 123,
+    "crd": "4208435263218401",
+    "term": "T35618",
+    "brand": "VISA"
+  },
+  {
+    "amt": 562,
+    "crd": "5969498672617996",
+    "term": "T66771",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 223,
+    "crd": "4758611309452910",
+    "term": "T27542",
+    "brand": "VISA"
+  },
+  {
+    "amt": 156,
+    "crd": "4189531878505732",
+    "term": "T59264",
+    "brand": "VISA"
+  },
+  {
+    "amt": 909,
+    "crd": "4191279535214369",
+    "term": "T35183",
+    "brand": "VISA"
+  },
+  {
+    "amt": 658,
+    "crd": "5448044757615505",
+    "term": "T72500",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 911,
+    "crd": "5783571733904036",
+    "term": "T87210",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 443,
+    "crd": "3703145122082410",
+    "term": "T44920",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 939,
+    "crd": "5283208820010416",
+    "term": "T56313",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 589,
+    "crd": "3324448996536354",
+    "term": "T19694",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 254,
+    "crd": "5851987874735834",
+    "term": "T20790",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 274,
+    "crd": "5829143077402843",
+    "term": "T40499",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 533,
+    "crd": "4254780650330689",
+    "term": "T15909",
+    "brand": "VISA"
+  },
+  {
+    "amt": 966,
+    "crd": "3595658312855483",
+    "term": "T27264",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 104,
+    "crd": "4840893724967850",
+    "term": "T85661",
+    "brand": "VISA"
+  },
+  {
+    "amt": 857,
+    "crd": "4767494219286109",
+    "term": "T63242",
+    "brand": "VISA"
+  },
+  {
+    "amt": 592,
+    "crd": "5439265979468129",
+    "term": "T65390",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 139,
+    "crd": "3704355164944438",
+    "term": "T72167",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 716,
+    "crd": "4435906957164593",
+    "term": "T44908",
+    "brand": "VISA"
+  },
+  {
+    "amt": 303,
+    "crd": "5332488320045314",
+    "term": "T84875",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 623,
+    "crd": "5679181643995816",
+    "term": "T94844",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 932,
+    "crd": "5409578562540833",
+    "term": "T28054",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 816,
+    "crd": "5784505202554889",
+    "term": "T62475",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 155,
+    "crd": "4235206677721913",
+    "term": "T43945",
+    "brand": "VISA"
+  },
+  {
+    "amt": 476,
+    "crd": "3930358825393936",
+    "term": "T37681",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 201,
+    "crd": "5160070416684785",
+    "term": "T51935",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 839,
+    "crd": "3515295894203229",
+    "term": "T64980",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 502,
+    "crd": "3428092820207782",
+    "term": "T73672",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 872,
+    "crd": "4963008290579541",
+    "term": "T63097",
+    "brand": "VISA"
+  },
+  {
+    "amt": 909,
+    "crd": "4499101955356936",
+    "term": "T82783",
+    "brand": "VISA"
+  },
+  {
+    "amt": 982,
+    "crd": "5117577319672098",
+    "term": "T72208",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 121,
+    "crd": "3423351155847764",
+    "term": "T56592",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 901,
+    "crd": "4811266023356529",
+    "term": "T41478",
+    "brand": "VISA"
+  },
+  {
+    "amt": 280,
+    "crd": "5434617669883503",
+    "term": "T38689",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 709,
+    "crd": "4423411633289892",
+    "term": "T96627",
+    "brand": "VISA"
+  },
+  {
+    "amt": 438,
+    "crd": "3458218530346126",
+    "term": "T42658",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 492,
+    "crd": "4815837080425248",
+    "term": "T48547",
+    "brand": "VISA"
+  },
+  {
+    "amt": 844,
+    "crd": "5982930862963175",
+    "term": "T21108",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 738,
+    "crd": "5160997559514777",
+    "term": "T24545",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 330,
+    "crd": "3377107426921916",
+    "term": "T42501",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 466,
+    "crd": "3432876123404580",
+    "term": "T66814",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 942,
+    "crd": "4151119099953776",
+    "term": "T32494",
+    "brand": "VISA"
+  },
+  {
+    "amt": 382,
+    "crd": "5139390991056764",
+    "term": "T72116",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 383,
+    "crd": "4359588199169065",
+    "term": "T66543",
+    "brand": "VISA"
+  },
+  {
+    "amt": 949,
+    "crd": "4823072474221211",
+    "term": "T37869",
+    "brand": "VISA"
+  },
+  {
+    "amt": 817,
+    "crd": "5809340301388203",
+    "term": "T93048",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 754,
+    "crd": "5324724217351757",
+    "term": "T10319",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 126,
+    "crd": "3402062724477371",
+    "term": "T59121",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 816,
+    "crd": "5612572800437913",
+    "term": "T38310",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 127,
+    "crd": "4642921784025387",
+    "term": "T25202",
+    "brand": "VISA"
+  },
+  {
+    "amt": 493,
+    "crd": "3827720918399260",
+    "term": "T38102",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 595,
+    "crd": "5475524166559018",
+    "term": "T77500",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 721,
+    "crd": "4301221013233909",
+    "term": "T15037",
+    "brand": "VISA"
+  },
+  {
+    "amt": 892,
+    "crd": "5472140652242876",
+    "term": "T59314",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 599,
+    "crd": "3986675196451476",
+    "term": "T29255",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 523,
+    "crd": "4814292958613964",
+    "term": "T49213",
+    "brand": "VISA"
+  },
+  {
+    "amt": 744,
+    "crd": "3594970002626260",
+    "term": "T49976",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 892,
+    "crd": "4849660245410619",
+    "term": "T79503",
+    "brand": "VISA"
+  },
+  {
+    "amt": 525,
+    "crd": "5412949824658077",
+    "term": "T28302",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 804,
+    "crd": "3567667527544080",
+    "term": "T21147",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 553,
+    "crd": "3330341634700805",
+    "term": "T62500",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 900,
+    "crd": "5504278907636055",
+    "term": "T31467",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 241,
+    "crd": "5731332315225978",
+    "term": "T92745",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 634,
+    "crd": "4977338092833415",
+    "term": "T14389",
+    "brand": "VISA"
+  },
+  {
+    "amt": 869,
+    "crd": "4111761815138856",
+    "term": "T72833",
+    "brand": "VISA"
+  },
+  {
+    "amt": 569,
+    "crd": "4394160557188149",
+    "term": "T88392",
+    "brand": "VISA"
+  },
+  {
+    "amt": 499,
+    "crd": "4630960270905304",
+    "term": "T50440",
+    "brand": "VISA"
+  },
+  {
+    "amt": 691,
+    "crd": "4595103836315124",
+    "term": "T24128",
+    "brand": "VISA"
+  },
+  {
+    "amt": 417,
+    "crd": "4832281769630071",
+    "term": "T26628",
+    "brand": "VISA"
+  },
+  {
+    "amt": 506,
+    "crd": "5948457776904975",
+    "term": "T13225",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 746,
+    "crd": "4644959814472287",
+    "term": "T28893",
+    "brand": "VISA"
+  },
+  {
+    "amt": 888,
+    "crd": "3789749505556316",
+    "term": "T83954",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 276,
+    "crd": "5746743084278485",
+    "term": "T83448",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 691,
+    "crd": "5215478985825672",
+    "term": "T94285",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 503,
+    "crd": "5455592578693119",
+    "term": "T79021",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 555,
+    "crd": "5870901943932930",
+    "term": "T77984",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 943,
+    "crd": "4363726002700230",
+    "term": "T50346",
+    "brand": "VISA"
+  },
+  {
+    "amt": 784,
+    "crd": "3462388960524186",
+    "term": "T82805",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 423,
+    "crd": "5926513367336010",
+    "term": "T14216",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 799,
+    "crd": "5822171824701547",
+    "term": "T49273",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 714,
+    "crd": "4632599280000876",
+    "term": "T45472",
+    "brand": "VISA"
+  },
+  {
+    "amt": 401,
+    "crd": "3634731183357491",
+    "term": "T57419",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 355,
+    "crd": "5566023950161284",
+    "term": "T43233",
+    "brand": "MASTERCARD"
+  },
+  {
+    "amt": 908,
+    "crd": "3551770256581211",
+    "term": "T39923",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 538,
+    "crd": "3542618917424148",
+    "term": "T79483",
+    "brand": "AMEX"
+  },
+  {
+    "amt": 196,
+    "crd": "5693118695276165",
+    "term": "T64971",
+    "brand": "MASTERCARD"
+  }
 ]
